@@ -11,3 +11,17 @@
 ## use operator % to find the result of 10 % 2
 
 ## use operator // to find the result of 10 // 2
+
+## use operator & to find the result of 10 & 2
+
+## use operator & to find the result of 10 & 2
+
+## use operator | to find the result of 10 | 2
+
+## use operator ^ to find the result of 10 ^ 2
+
+## use operator ~ to find the result of ~10
+
+## use operator << to find the result of 10 << 2
+
+## use operator >> to find the result of 10 >> 2
